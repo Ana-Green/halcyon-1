@@ -1,0 +1,6 @@
+J:\Download\halcyon-0.9.50\bin\OpenSimProfile.Modules.dll
+J:\Download\halcyon-0.9.50\bin\OpenSimProfile.Modules.pdb
+J:\Download\halcyon-0.9.50\OpenSimProfile\Modules\obj\x64\Debug\OpenSimProfile.Modules.csprojAssemblyReference.cache
+J:\Download\halcyon-0.9.50\OpenSimProfile\Modules\obj\x64\Debug\OpenSimProfile.Modules.csproj.CoreCompileInputs.cache
+J:\Download\halcyon-0.9.50\OpenSimProfile\Modules\obj\x64\Debug\OpenSimProfile.Modules.dll
+J:\Download\halcyon-0.9.50\OpenSimProfile\Modules\obj\x64\Debug\OpenSimProfile.Modules.pdb
